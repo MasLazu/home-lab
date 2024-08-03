@@ -1,0 +1,1 @@
+packer build -var-file=../credential.pkr.hcl ./ubuntu-server-24.pkr.hcl
