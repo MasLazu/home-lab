@@ -4,7 +4,7 @@
 
 variable "vm_count" {
   type    = number
-  default = 1
+  default = 6
 }
 
 variable "vm_name_prefix" {
