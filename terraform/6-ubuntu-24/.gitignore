@@ -1,2 +1,3 @@
 credentials.auto.tfvars
 private_key.txt
+.terraform/
